@@ -44,5 +44,5 @@ kramdown:
 
 deploy:
   type: git
-  repo: git@github.com:Liyann8866/13_Campanula.github.io.git
+  repo: git@github.com:13campanula/13_Campanula.github.io.git
   branch: master
