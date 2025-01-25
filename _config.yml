@@ -41,3 +41,8 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
+deploy:
+  type: git
+  repo: git@github.com:Liyann8866/13_Campanula.github.io.git
+  branch: master
